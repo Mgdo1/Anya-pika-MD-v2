@@ -1,8 +1,8 @@
 {
-  "name": "𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐌𝐃-𝐯𝟐",
+  "name": "MGDAD BOT",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.COM/PikaBotz/Anya-pika-MD-V2",
-  "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg&name=900x900",
+  "logo": "https://i.ibb.co/dDbdY4j/IMG-20230418-WA0029.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "buildpacks": [
     {
